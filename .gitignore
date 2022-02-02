@@ -3,3 +3,9 @@
 ################################################################################
 
 /packages
+/.vs/WebApplication1
+/WebApplication1/obj/Debug
+/ConsoleApp1/bin/Debug/net6.0
+/ConsoleApp1/obj/Debug/net6.0
+/ConsoleApp1/obj
+/WebApplication1/bin
